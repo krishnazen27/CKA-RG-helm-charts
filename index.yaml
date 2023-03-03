@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  hello:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-03-03T06:56:42.360396233Z"
+    description: A Helm hello app for deloitte cluster
+    digest: 9642091d53799cc24b38c3faf81d66d89bb0ffbc5c9f74ea706ad9bd592dd9f8
+    name: hello
+    type: application
+    urls:
+    - https://brainupgrade-in.github.io/helm-charts/hello-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-03-03T06:56:42.359711918Z"
